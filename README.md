@@ -1,6 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
+# [Primer by Velocis](primer.velocis.us/)
 
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+Primer is an introduction to who Velocis is and what we do. You can think of this as our dating profile. If you like what we have to say, then we might just be a match. Feel free to take and share notes if you want to up your own game.
 
 ## Getting Started
 
