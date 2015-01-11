@@ -8,7 +8,7 @@ Our purpose is to contribute to collaboration and share our ever-evolving proces
 
 ## Outside Contribution
 
-Have a comment about our methods? Think you know of a better way? [Open a new issue](https://github.com/Velocis/velocis.github.io/issues) here on GitHub and we'll perform a double-take.
+Have a comment about our methods? Think you know of a better way? [Open a new issue](https://github.com/Velocis/velocis.github.io/issues/new) here on GitHub and we'll perform a double-take.
 
 ## Creators
 
